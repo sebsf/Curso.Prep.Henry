@@ -175,9 +175,9 @@ function esPositivo(numero) {
     return false;
   }
   else if(numero > 0)
-  return 'es positivo';
+  return 'Es positivo';
 else { (numero < 0);
-return 'es negativo';
+return 'Es negativo';
 } 
 }
 
